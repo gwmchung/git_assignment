@@ -16,4 +16,8 @@ d. 1. In the github repository webpage, click on the "Settings" link at the top.
 
 e. Git is a free and open sourced version control tool that developers install locally on their computers, while GitHub is a pay-for-use online service built to run Git in the cloud.
 
-f. 
+f. Git diff is a way to compare the current working directory and the staging area.
+
+g. The main branch is the default branch that is created for every repository in Git.
+
+h. No, we should always create another branch, push our changes to it, and then create a pull request to main.
